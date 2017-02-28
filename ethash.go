@@ -40,11 +40,11 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/crypto"
-	"github.com/ethereumproject/go-ethereum/logger"
-	"github.com/ethereumproject/go-ethereum/logger/glog"
-	"github.com/ethereumproject/go-ethereum/pow"
+	"github.com/Tzunami/go-earthdollar/common"
+	"github.com/Tzunami/go-earthdollar/crypto"
+	"github.com/Tzunami/go-earthdollar/logger"
+	"github.com/Tzunami/go-earthdollar/logger/glog"
+	"github.com/Tzunami/go-earthdollar/pow"
 )
 
 var (
